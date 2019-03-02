@@ -1,2 +1,2 @@
 # FaceDetection
-FaceDetection using vioal jones classifier
+FaceDetection using Viola-Jones Classifier
